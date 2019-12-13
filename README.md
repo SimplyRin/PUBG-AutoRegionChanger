@@ -1,5 +1,5 @@
 # PUBG-AutoRegionChanger
-TslGame.exe を起動しているときは "China" にする物
+AS サーバーをデフォルトサーバーにするため、TslGame.exe を起動しているときは Windows の時計を "China Standard Time" に変更する物
 
 必要環境: Java 8+
 
